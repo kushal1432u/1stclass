@@ -1,1 +1,4 @@
-
+streamlit as st
+joblib
+re
+nltk
